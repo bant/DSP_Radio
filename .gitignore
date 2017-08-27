@@ -1,0 +1,15 @@
+# obj フォルダ無視
+obj/
+
+# .dep フォルダ無視
+.dep/
+
+# 
+*.hex
+*.eep
+*.elf
+*.lss
+*.map
+*.sym
+*.*~
+*.BAK
